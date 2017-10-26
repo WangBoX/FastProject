@@ -447,7 +447,6 @@
 		327E40D91FA0314300C80D40 /* Util */ = {
 			isa = PBXGroup;
 			children = (
-				327E40DA1FA0314300C80D40 /* APNs */,
 				327E40DF1FA0314300C80D40 /* Category */,
 				327E412B1FA0314300C80D40 /* Common */,
 				327E41451FA0314300C80D40 /* Lib */,
@@ -455,13 +454,6 @@
 				327E41D51FA0314300C80D40 /* UtilView */,
 			);
 			path = Util;
-			sourceTree = "<group>";
-		};
-		327E40DA1FA0314300C80D40 /* APNs */ = {
-			isa = PBXGroup;
-			children = (
-			);
-			path = APNs;
 			sourceTree = "<group>";
 		};
 		327E40DF1FA0314300C80D40 /* Category */ = {
