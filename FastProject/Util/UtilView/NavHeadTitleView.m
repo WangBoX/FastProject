@@ -4,7 +4,7 @@
 //
 //  Created by WBO on 2017/10/16.
 //  Copyright © 2017年 MoodGood. All rights reserved.
-//
+//  WBoX
 
 #import "NavHeadTitleView.h"
 
