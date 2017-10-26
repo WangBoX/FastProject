@@ -100,11 +100,9 @@
     self.label.text=title;
 }
 
-- (void)setTitleColor:(UIColor *)titleColor{
-    
+- (void)setTitleColor:(UIColor *)titleColor{    
     _titleColor = titleColor;
     self.label.textColor = _titleColor;
-    
 }
 
 
