@@ -12,9 +12,7 @@
 
 @implementation ZJEncryption
 
-static NSString *SECRET = @"ios*c";
-static NSString *AppId = @"3";
-
+  
 
 + (NSDictionary *)encryption:(NSDictionary *)params
                          API:(NSString *)api
